@@ -1,0 +1,70 @@
+body {
+  background-image: url("images/partlysunny.jpg");
+  background-color: #42a5f5;
+}
+
+.outter-border {
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin: 40px;
+  background-image: url("images/partlysunny.jpg");
+  /* background-color: #dee1e6; */
+}
+
+.circle {
+  border: 1px solid #000;
+  opacity: 65%;
+  border-radius: 50px;
+  line-height: 60px;
+  margin: 0 auto;
+  padding: 20px;
+  width: 100px;
+  text-align: center;
+  font-size: 26px;
+}
+
+.today-box {
+  padding: 20px 0 75px 0;
+
+  border-radius: 4px;
+}
+
+.today-description {
+  text-align: center;
+  font-size: 22px;
+  opacity: 65%;
+}
+.search-bar {
+  display: block;
+  margin: 4px auto;
+  border: 1px solid grey;
+  border-radius: 2px;
+}
+
+.display-city {
+  border: 1px solid #000;
+  border-radius: 4px;
+  margin: 4px 8px;
+  text-align: center;
+  background-color: #fff;
+  font-size: 72px;
+  opacity: 85%;
+}
+
+.forecast-holder {
+  margin: 0 auto;
+  text-align: center;
+  color: #42a5f5;
+}
+
+.forecast-box {
+  border: 1px solid #42a5f5;
+  border-radius: 4px;
+  margin: 4px 6px;
+  background-color: #e7f4fd;
+  padding-bottom: 4px;
+}
+
+.weather-pic {
+  background-color: #42a5f5;
+}
